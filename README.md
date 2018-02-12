@@ -19,9 +19,10 @@ In this talk we’ll go over the key lessons we learned while building our edge 
 * Takeaways
 
 ### Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: Tyler McMullen, Joao Taveira, Elaine Greenberg, Peter Teichman, Lorenzo Saino, Matt Whiteley, and Greg Bako.
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: James Turnbull, Tyler McMullen, Joao Taveira, Elaine Greenberg, Peter Teichman, Lorenzo Saino, Thomason,cand Greg Bako.
 
 ### References
+* [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [How do managers get stuck? by Camille Fournier](http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html)
 * [How Do Individual Contributors Get Stuck? A Primer](http://www.elidedbranches.com/2017/01/how-do-individual-contributors-get.html)
 * [Notes on Startup Engineering Management for Young Bloods](http://www.elidedbranches.com/2015/10/notes-on-startup-engineering-management.html)
