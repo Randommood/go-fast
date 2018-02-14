@@ -19,7 +19,7 @@ In this talk we’ll go over the key lessons we learned while building our edge 
 * Takeaways
 
 ### Thank you!
-Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: James Turnbull, Tyler McMullen, Joao Taveira, Elaine Greenberg, Peter Teichman, Lorenzo Saino, Thomason,cand Greg Bako.
+Thank you to everyonw who helped with feedback, resources, and advice for this talk. Special thanks to: James Turnbull, Tyler McMullen, Joao Taveira, Elaine Greenberg, Peter Teichman, Lorenzo Saino,Adam Thomason,and Greg Bako.
 
 ### References
 * [The Manager's Path](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
